@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
- <img width="30%" src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" /><span align="center">Overview</span><img width="30%" src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" />
+ <img width="30%" src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" align="center" /><span align="center">Overview</span><img width="30%" src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" align="center" />
 </p>
 <h1 align="center">Hi 👋, I'm Nguyen Van Hiep</h1>
 <h3 align="center">I'm fresher Web Full Stack Developer. I passionate about technology, always want to explore new technologies.</h3>
