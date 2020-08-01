@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
- <img src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" style="max-width:40%;" /><img src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" style="max-width:40%;" />
+ <img width="40%" src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" style="max-width:40%;" /><h2 align="center">Overview</h2><img width="40%" src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" style="max-width:40%;" />
  <h2 align="center">Overview</h2>
 </p>
 <h1 align="center">Hi 👋, I'm Nguyen Van Hiep</h1>
