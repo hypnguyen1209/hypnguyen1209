@@ -1,7 +1,5 @@
 ### Hi there 👋
-<p>
- <img width="30%" src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" align="center" /><span align="center">Overview</span><img width="30%" src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" align="center" />
-</p>
+<h2 align="center">Overview</h2>
 <h1 align="center">Hi 👋, I'm Nguyen Van Hiep</h1>
 <h3 align="center">I'm fresher Web Full Stack Developer. I passionate about technology, always want to explore new technologies.</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hypnguyen1209" alt="hypnguyen1209" />
@@ -21,10 +19,11 @@
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
  <p align="center"><img src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif"></p>
- </p> </p>
 
-<p align="left"></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hypnguyen1209&show_icons=true&theme=dracula&count_private=true" alt="hypnguyen1209" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypnguyen1209&layout=compact&theme=dracula" alt="hypnguyen1209" /> </p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=hypnguyen1209&show_icons=true&theme=dracula&count_private=true" alt="hypnguyen1209" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypnguyen1209&layout=compact&theme=dracula" alt="hypnguyen1209" /> 
+</p>
 
 <p align="center">
 <a href="https://dev.to/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hypnguyen1209" height="20" width="20" /></a>
