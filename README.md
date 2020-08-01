@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">
+<p>
  <img src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" style="max-width:40%;" /><img src="https://thumbs.gfycat.com/CookedUnhappyHind-size_restricted.gif" style="max-width:40%;" />
  <h2 align="center">Overview</h2>
 </p>
