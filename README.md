@@ -24,7 +24,7 @@
 <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
  </p>
  
-<h2>🎉 Stats</h2>
+<h3>🎉 Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hypnguyen1209&show_icons=true&theme=dracula&count_private=true" alt="hypnguyen1209">
 </p>
@@ -32,6 +32,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"></p>
 
-<h2>🏆 GitHub Trophies</h2>
+<h3>🏆 GitHub Trophies</h3>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hypnguyen1209&theme=onedark&column=7"></p>
