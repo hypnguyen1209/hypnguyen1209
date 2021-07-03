@@ -1,29 +1,37 @@
-### Hi there 👋
-<h2 align="center">Overview</h2>
-<h1 align="center">Hi 👋, I'm Nguyen Van Hiep</h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=hypnguyen1209" alt="hypnguyen1209" />
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<h2 align="center">Overview <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">Hi 👋, I'm Nguyen Van Hiep <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hypnguyen1209" alt="hypnguyen1209" /></p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hypnguyen1209&show_icons=true&theme=dracula&count_private=true" alt="hypnguyen1209" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypnguyen1209&layout=compact&theme=dracula" alt="hypnguyen1209" /> 
+<h3 align="left">👨‍💻 Languages and Framework:</h3>
+<p>
+<img width="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+</p>
+
+<h3 align="left">🔧 Tools:</h3>
+<p>
+<img width="50" src="https://i.imgur.com/UMxENh9.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+ </p>
+ 
+<h2>🎉 Stats</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hypnguyen1209&show_icons=true&theme=dracula&count_private=true" alt="hypnguyen1209">
 </p>
 
 <p align="center">
-<a href="https://dev.to/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hypnguyen1209" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hypnguyen1209" height="20" width="20" /></a>
-<a href="https://codesandbox.com/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hypnguyen1209" height="20" width="20" /></a>
-<a href="https://fb.com/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hypnguyen1209" height="20" width="20" /></a>
-<a href="https://medium.com/@hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hypnguyen1209" height="20" width="20" /></a>
-</p>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"></p>
+
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hypnguyen1209&theme=onedark&column=7"></p>
