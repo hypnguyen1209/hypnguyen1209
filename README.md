@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hiep <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hypnguyen1209" alt="hypnguyen1209" /></p>
 
-<h3 align="left">👨‍💻 Languages and Framework:</h3>
+<h3 align="left">👨‍💻 Languages and Frameworks:</h3>
 <p>
 <img width="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
