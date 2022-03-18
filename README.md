@@ -1,28 +1,43 @@
 <h2 align="center">Overview <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <h1 align="center">Hi 👋, I'm Nguyen Van Hiep <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hypnguyen1209" alt="hypnguyen1209" /></p>
 
 <h3 align="left">👨‍💻 Languages and Frameworks:</h3>
+
 <p>
-<img width="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+ 
+![](https://badges.aleen42.com/src/golang.svg)
+![](https://badges.aleen42.com/src/javascript.svg)
+![](https://badges.aleen42.com/src/node.svg)
+![](https://badges.aleen42.com/src/python.svg)
+![](/assets/php.svg)
+![](/assets/cpp.svg)
+![](https://badges.aleen42.com/src/java.svg)
+![](/assets/fastify.svg)
+![](/assets/express.svg)
+![](/assets/laravel.svg)
+![](https://badges.aleen42.com/src/chrome_extensions.svg)
+![](/assets/nextjs.svg)
+![](https://badges.aleen42.com/src/vue.svg)
+![](https://badges.aleen42.com/src/vitejs.svg)
+![](https://badges.aleen42.com/src/react.svg)
+![](https://badges.aleen42.com/src/webpack.svg)
+![](/assets/mongodb.svg)
+![](/assets/mysql.svg)
+![](/assets/discord-js.svg)
 </p>
 
 <h3 align="left">🔧 Tools:</h3>
 <p>
-<img width="50" src="https://i.imgur.com/UMxENh9.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
- </p>
+ 
+![](https://badges.aleen42.com/src/visual_studio_code.svg)
+![](https://badges.aleen42.com/src/docker.svg)
+![](https://badges.aleen42.com/src/idea.svg)
+![](https://badges.aleen42.com/src/elasticsearch.svg)
+![](/assets/firebase.svg)
+</p>
  
 <h3>🎉 Stats</h3>
 <p align="center">
