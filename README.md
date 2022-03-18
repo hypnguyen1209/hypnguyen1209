@@ -13,8 +13,6 @@
 ![](https://badges.aleen42.com/src/node.svg)
 ![](https://badges.aleen42.com/src/python.svg)
 ![](/assets/php.svg)
-![](/assets/cpp.svg)
-![](https://badges.aleen42.com/src/java.svg)
 ![](/assets/fastify.svg)
 ![](/assets/express.svg)
 ![](/assets/laravel.svg)
