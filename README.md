@@ -39,6 +39,8 @@
 ![](https://badges.aleen42.com/src/idea.svg)
 ![](https://badges.aleen42.com/src/elasticsearch.svg)
 ![](/assets/firebase.svg)
+![](/assets/linux.svg) 
+ 
 </p>
  
 <h3>🎉 Stats</h3>
@@ -46,9 +48,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hypnguyen1209&show_icons=true&theme=dracula&count_private=true" alt="hypnguyen1209">
 </p>
 
-<p align="center">
+<!--<p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"></p>
 
-<!-- <h3>🏆 GitHub Trophies</h3>
+<h3>🏆 GitHub Trophies</h3>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hypnguyen1209&theme=onedark&column=7"></p>
