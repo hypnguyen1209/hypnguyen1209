@@ -4,7 +4,7 @@
 
 <p align="left">
 
-![](https://komarev.com/ghpvc/?username=hypnguyen1209)
+![](https://proxy.hypnguyen.workers.dev/?https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dhypnguyen1209)
 
 </p>
 
