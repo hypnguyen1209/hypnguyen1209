@@ -4,6 +4,14 @@
 
 <p align="left">
 
+<h3 align="left">😪About me</h3>
+
+- 🔭 I'm currently working on **Academy of Cryptography Techniques (KMA)**
+
+- 💬 Ask me about **PHP, NodeJS, Golang**
+
+- 🌱 I’m currently learning **Everything**
+
 ![](https://proxy.hypnguyen.workers.dev/?https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dhypnguyen1209)
 
 </p>
