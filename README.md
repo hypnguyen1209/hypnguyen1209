@@ -62,3 +62,9 @@
 <h3>🏆 GitHub Trophies</h3>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hypnguyen1209&theme=onedark&column=7"></p>
+
+<p align="center">
+
+![](/assets/github-user-contribution.svg)
+
+</p>
