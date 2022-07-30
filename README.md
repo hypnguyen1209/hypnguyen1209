@@ -52,8 +52,11 @@
 </p>
  
 <h3>🎉 Stats</h3>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hypnguyen1209&show_icons=true&theme=dracula&count_private=true" alt="hypnguyen1209">
+
+ <img src="https://github-readme-stats.vercel.app/api?username=hypnguyen1209&show_icons=true&theme=dracula&count_private=true" alt="hypnguyen1209">
+
 </p>
 
 <!--<p align="center">
@@ -63,8 +66,4 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hypnguyen1209&theme=onedark&column=7"></p>
 
-<p align="center">
 
-![](/assets/github-user-contribution.svg)
-
-</p>
