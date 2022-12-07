@@ -1,10 +1,12 @@
-<h2 align="center">Overview <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### Hey 👋, I'm hypnguyen1209
 
-<h1 align="center">Hi 👋, I'm Nguyen Van Hiep <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
+[![Github](https://img.shields.io/github/followers/hypnguyen1209?label=Follow&style=social)](https://github.com/hypnguyen1209)
 
 <p align="left">
 
 ![](https://proxy.hypnguyen.workers.dev/?https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dhypnguyen1209)
+
+I ❤ Open Source. I love [Go](https://go.dev) and [Nodejs](https://nodejs.org).
 
 <h3 align="left">😪 About me</h3>
 
