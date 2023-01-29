@@ -18,7 +18,7 @@ I ❤ Open Source. I love [Go](https://go.dev) and [Nodejs](https://nodejs.org).
 
 </p>
 
-<h3 align="left">👨‍💻 Languages and Frameworks:</h3>
+<details><summary><h3 align="left">👨‍💻 Languages and Frameworks:</h3></summary>
 
 <p>
  
@@ -41,8 +41,10 @@ I ❤ Open Source. I love [Go](https://go.dev) and [Nodejs](https://nodejs.org).
 ![](/assets/discord-js.svg)
 </p>
 
-<h3 align="left">🔧 Tools:</h3>
-<p>
+</details>
+<details><summary><h3 align="left">🔧 Tools:</h3></summary>
+
+ <p>
  
 ![](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![](https://badges.aleen42.com/src/docker.svg)
@@ -52,7 +54,8 @@ I ❤ Open Source. I love [Go](https://go.dev) and [Nodejs](https://nodejs.org).
 ![](/assets/linux.svg) 
  
 </p>
- 
+</details>
+
 <h3>🎉 Stats</h3>
 
 <p align="center">
