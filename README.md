@@ -10,8 +10,6 @@ I ❤ Open Source. I love [Go](https://go.dev) and [Nodejs](https://nodejs.org).
 
 <h3 align="left">😪 About me</h3>
 
-- 🔭 I'm currently working on **Academy of Cryptography Techniques (KMA)**
-
 - 💬 Ask me about **PHP, NodeJS, Golang**
 
 - 🌱 I’m currently learning **Everything**
